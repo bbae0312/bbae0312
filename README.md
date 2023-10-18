@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jinwoo Bae</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbae0312" alt="bbae0312" /></a> </p>
-
 - 🔭 I’m currently working on [Ecommerce website](https://github.com/bbae0312/My_Ecommerce)
 
 - 👯 I’m looking to collaborate on [Pacman](https://github.com/bbae0312/Pacman)
