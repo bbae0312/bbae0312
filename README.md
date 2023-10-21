@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ecommerce website](https://github.com/bbae0312/My_Ecommerce)
 
-- 👯 I’m looking to collaborate on [Pacman](https://github.com/bbae0312/Pacman)
+- 👯 I’m looking to collaborate on [Gomoku](https://github.com/bbae0312/Gomoku)
 
 - 👨‍💻 All of my projects are available at [https://bbae0312.github.io/bbaePortfolio/assets/](https://bbae0312.github.io/bbaePortfolio/assets/)
 
