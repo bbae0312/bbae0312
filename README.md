@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Gomoku](https://github.com/bbae0312/Gomoku)
 
-- 👨‍💻 All of my projects are available at [https://bbae0312.github.io/bbaePortfolio/assets/](https://bbae0312.github.io/bbaePortfolio/assets/)
+- 👨‍💻 All of my projects are available at [https://bbae0312.github.io/BaePortfolio/](https://bbae0312.github.io/BaePortfolio/)
 
 - 💬 Ask me about **react, java, python**
 
